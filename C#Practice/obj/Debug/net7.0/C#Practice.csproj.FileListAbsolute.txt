@@ -1,0 +1,15 @@
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.csproj.AssemblyReference.cache
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.AssemblyInfoInputs.cache
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.AssemblyInfo.cs
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.csproj.CoreCompileInputs.cache
+D:\DummyDir\InterviewQuestions\C#Practice\bin\Debug\net7.0\C#Practice.exe
+D:\DummyDir\InterviewQuestions\C#Practice\bin\Debug\net7.0\C#Practice.deps.json
+D:\DummyDir\InterviewQuestions\C#Practice\bin\Debug\net7.0\C#Practice.runtimeconfig.json
+D:\DummyDir\InterviewQuestions\C#Practice\bin\Debug\net7.0\C#Practice.dll
+D:\DummyDir\InterviewQuestions\C#Practice\bin\Debug\net7.0\C#Practice.pdb
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.dll
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\refint\C#Practice.dll
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.pdb
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\C#Practice.genruntimeconfig.cache
+D:\DummyDir\InterviewQuestions\C#Practice\obj\Debug\net7.0\ref\C#Practice.dll
